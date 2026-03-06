@@ -27,6 +27,4 @@ The project expects to demonstrate its solutions in the three Lead Cities and pr
 
 URBAN FLOW develops a set of software tools that implement the Local Digital Twin foundation, data and KPI management, interoperability with data spaces, online collaboration, and impact assessment capabilities described in the Grant Agreement. These tools will be progressively released as separate repositories under this organisation.
 ​
-
-[For the complete and up to date list of tools and repositories, please click here] (./catalogue)
-[For the complete and up to date list of tools and repositories, please click here](./catalogue)
+[For the complete and up to date list of tools and repositories, please click here](https://github.com/Urban-Flow-Organization/Catalogue))
