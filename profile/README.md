@@ -1,17 +1,24 @@
-URBAN FLOW is a Horizon Europe project that helps cities reshape public space and mobility towards climate neutrality and resilience, using Local Digital Twins, Mobility Data Spaces, and City Living Labs. The project pilots solutions in Valencia, Florence, and Tampere, and supports replication in Edinburgh, Brussels, and Pilsen.
+## Project Overview
+
+URBAN FLOW is a Horizon Europe project designed to reshape urban spaces into sustainable, climate neutral, and resilient environments. The project addresses challenges such as limited public space, inefficient mobility and land use planning, suburban connectivity gaps, fragmented energy and mobility systems, and the need for inclusive and liveable urban areas.
 ​
 
-## 🙋‍♀️ A short introduction
-This GitHub organization collects software, documentation, and open assets produced by the URBAN FLOW consortium to support data driven urban planning, dynamic space management, and impact assessment.
+By integrating Local Digital Twins and Mobility Data Spaces, URBAN FLOW enhances data driven decision making and enables dynamic space management and participatory urban regeneration towards climate neutral mobility, integrated energy, and resilient design. The project is demonstrated in three Lead Cities Valencia in Spain, Florence in Italy, and Tampere in Finland and involves three Replicant Cities Edinburgh in the United Kingdom, Brussels in Belgium, and Pilsen in Czechia.
 ​
 
-## 🌈 Contribution guidelines
-Use this organization repositories to publish and link the components developed within URBAN FLOW, keeping code, documentation, and releases aligned with the agreed project guidelines and governance.
-​For each component, create and maintain the corresponding work items in the GitHub Projects section using an Agile approach configured with Kanban boards, epics, user stories, and tasks, and keep the repository work linked to those items for traceability.​
+## What We Do
 
-## 👩‍💻 Useful resources
-Core reference document is the Grant Agreement for Project 101239472 URBAN FLOW. Additional project outputs are organised in the repositories in this organization, including specifications, templates, and technical deliverables when published.
+URBAN FLOW develops a systemic approach for co creating and replicating sustainable urban regeneration measures through City Living Labs, engaging policymakers, citizens, and businesses. It establishes a Local Digital Twin and data management foundation, including tools for data and KPI management, interoperability with Mobility Data Spaces, online collaboration, advanced visualisations, and a Health Impact Assessment model and climate neutrality composite index.
 ​
 
-## 🍿 Fun facts
-Coffee is the most common “integration layer” in our meetings, and it works surprisingly well
+The project also develops tools for digitally assisted urban planning and design, optimised use of electric vehicle charging infrastructure, dynamic curbside and urban space management, multimodal and on demand mobility services, coordinated energy management, innovative charging solutions, and climate proofing of mobility and energy planning.
+​
+
+## What We Aim For
+
+URBAN FLOW aims to develop a framework for co creating and replicating urban regeneration measures that contribute to climate neutrality, integrating mobility, energy, and public space interventions. It seeks to support decision making in cities through Local Digital Twins, impact assessment frameworks, and tools that connect data, scenarios, and stakeholder participation.
+​
+
+## Our Expectations
+
+The project expects to demonstrate its solutions in the three Lead Cities and prepare climate neutral replication plans and transferability guidelines for Replicant Cities and other European cities. It also expects to contribute to the EU Mission on Climate Neutral Cities by aligning with the Mission Platform and leveraging city and climate related EU networks such as Climate KIC, EIT Urban Mobility, Open and Agile Smart Cities, and the Urban Technology Alliance.
