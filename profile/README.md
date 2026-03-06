@@ -29,4 +29,4 @@ URBAN FLOW develops a set of software tools that implement the Local Digital Twi
 ​
 
 [For the complete and up to date list of tools and repositories, please click here] (./catalogue)
-[Measures Catalogue](./urban-flow-measures-catalogue)
+[For the complete and up to date list of tools and repositories, please click here](./catalogue)
